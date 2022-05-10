@@ -1,0 +1,19 @@
+{
+  "name": "kocwebscrapper",
+  "version": "1.0.0",
+  "description": "Koc Mail Web Scrapper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balkaninal/KocWebScrapper.git"
+  },
+  "author": "Balkan Inal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balkaninal/KocWebScrapper/issues"
+  },
+  "homepage": "https://github.com/balkaninal/KocWebScrapper#readme"
+}
